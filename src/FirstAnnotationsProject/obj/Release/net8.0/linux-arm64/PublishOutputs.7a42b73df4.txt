@@ -1,0 +1,2 @@
+/tmp/source/bin/Release/net8.0/publish/bootstrap
+/tmp/source/bin/Release/net8.0/publish/bootstrap.pdb

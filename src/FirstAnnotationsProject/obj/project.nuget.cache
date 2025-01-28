@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "yP5dj57eITw=",
+  "success": true,
+  "projectFilePath": "/Users/miguelklemmsilva/Developer/itpi/FirstAnnotationsProject/src/FirstAnnotationsProject/FirstAnnotationsProject.csproj",
+  "expectedPackageFiles": [
+    "/Users/miguelklemmsilva/.nuget/packages/amazon.lambda.annotations/1.2.0/amazon.lambda.annotations.1.2.0.nupkg.sha512",
+    "/Users/miguelklemmsilva/.nuget/packages/amazon.lambda.apigatewayevents/2.7.0/amazon.lambda.apigatewayevents.2.7.0.nupkg.sha512",
+    "/Users/miguelklemmsilva/.nuget/packages/amazon.lambda.core/2.2.0/amazon.lambda.core.2.2.0.nupkg.sha512",
+    "/Users/miguelklemmsilva/.nuget/packages/amazon.lambda.runtimesupport/1.10.0/amazon.lambda.runtimesupport.1.10.0.nupkg.sha512",
+    "/Users/miguelklemmsilva/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.4.1/amazon.lambda.serialization.systemtextjson.2.4.1.nupkg.sha512",
+    "/Users/miguelklemmsilva/.nuget/packages/microsoft.dotnet.ilcompiler/8.0.11/microsoft.dotnet.ilcompiler.8.0.11.nupkg.sha512",
+    "/Users/miguelklemmsilva/.nuget/packages/microsoft.net.illink.tasks/8.0.11/microsoft.net.illink.tasks.8.0.11.nupkg.sha512",
+    "/Users/miguelklemmsilva/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/miguelklemmsilva/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/miguelklemmsilva/.nuget/packages/runtime.osx-arm64.microsoft.dotnet.ilcompiler/8.0.11/runtime.osx-arm64.microsoft.dotnet.ilcompiler.8.0.11.nupkg.sha512",
+    "/Users/miguelklemmsilva/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.11/microsoft.netcore.app.host.osx-arm64.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

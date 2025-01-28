@@ -1,0 +1,8 @@
+/Users/miguelklemmsilva/Developer/itpi/FirstAnnotationsProject/src/FirstAnnotationsProject/bin/Release/net8.0/publish/FirstAnnotationsProject.deps.json
+/Users/miguelklemmsilva/Developer/itpi/FirstAnnotationsProject/src/FirstAnnotationsProject/bin/Release/net8.0/publish/FirstAnnotationsProject.runtimeconfig.json
+/Users/miguelklemmsilva/Developer/itpi/FirstAnnotationsProject/src/FirstAnnotationsProject/bin/Release/net8.0/publish/FirstAnnotationsProject.pdb
+/Users/miguelklemmsilva/Developer/itpi/FirstAnnotationsProject/src/FirstAnnotationsProject/bin/Release/net8.0/publish/Amazon.Lambda.Annotations.dll
+/Users/miguelklemmsilva/Developer/itpi/FirstAnnotationsProject/src/FirstAnnotationsProject/bin/Release/net8.0/publish/Amazon.Lambda.APIGatewayEvents.dll
+/Users/miguelklemmsilva/Developer/itpi/FirstAnnotationsProject/src/FirstAnnotationsProject/bin/Release/net8.0/publish/Amazon.Lambda.Core.dll
+/Users/miguelklemmsilva/Developer/itpi/FirstAnnotationsProject/src/FirstAnnotationsProject/bin/Release/net8.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/miguelklemmsilva/Developer/itpi/FirstAnnotationsProject/src/FirstAnnotationsProject/bin/Release/net8.0/publish/FirstAnnotationsProject.dll
