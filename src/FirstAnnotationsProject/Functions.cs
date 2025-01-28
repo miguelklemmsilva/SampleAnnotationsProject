@@ -1,8 +1,10 @@
 using Amazon.Lambda.Core;
 using Amazon.Lambda.Annotations;
 using Amazon.Lambda.Annotations.APIGateway;
+using Amazon.Lambda.Serialization.SystemTextJson;
+using FirstAnnotationsProject;
 
-[assembly: LambdaSerializer(typeof(Amazon.Lambda.Serialization.SystemTextJson.DefaultLambdaJsonSerializer))]
+[assembly: LambdaSerializer(typeof(SourceGeneratorLambdaJsonSerializer<CustomJsonSerializerContext>))]
 [assembly: LambdaGlobalProperties(GenerateMain = true)]
 
 namespace FirstAnnotationsProject;
